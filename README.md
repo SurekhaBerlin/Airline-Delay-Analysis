@@ -28,8 +28,7 @@ Understanding the key factors contributing to delays - ranging from weather cond
 
 10. Are there airports or airlines with significantly better on-time performance?
 
-
-![Airline Delay Analysis 1](https://github.com/user-attachments/assets/b0f73306-d485-4a24-b9e9-a02eeaa26db4)
+![Airline Delay Analysis 1](https://github.com/user-attachments/assets/14106ab1-66b3-41fd-9d7a-9186b7525650)
 
 
 
